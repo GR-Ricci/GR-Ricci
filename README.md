@@ -2,7 +2,7 @@
 
 I'm currently in my **2nd semester of Computer Science** at **Barão de Mauá**.  
 
-## 🚀 Skills & Interests
+## ⚡ Skills & Interests
 - Python 🐍
 - Pygame 🎮
 - Machine Learning 🤖
