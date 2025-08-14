@@ -1,7 +1,7 @@
 <div align="center">
 
 <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi, I'm Gabriel Ricci 👋</p>
-<br style="line-height: 100px;" />
+<br style="line-height: 1px;" />
 <img src="avatar_image.png" alt="avatar_image" width="300"/>
 
 </div>
