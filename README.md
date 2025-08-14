@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Ricci 👋
 
-<img src="avatar.png" alt="avatar" width="200"/>
+<img src="avatar_image.png" alt="avatar_image" width="200"/>
 
 
 I'm in my **2nd semester of Computer Science** at **Centro Universitário Barão de Mauá, Ribeirão Preto-SP**.  
