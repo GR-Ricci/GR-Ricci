@@ -6,9 +6,14 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
 I'm in my **2nd semester of Computer Science** at **Centro Universitário Barão de Mauá, Ribeirão Preto-SP**.  
 I enjoy **technology, AI, machine learning, Python, and game development**.
 
+</div>
 ## ⚡ Skills
 - Python 🐍
 - Pygame 🎮
