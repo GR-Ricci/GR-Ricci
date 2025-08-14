@@ -1,5 +1,8 @@
 # Hi, I'm Gabriel Ricci 👋
 
+<img src="avatar.png" alt="avatar" width="800"/>
+
+
 I'm in my **2nd semester of Computer Science** at **Centro Universitário Barão de Mauá, Ribeirão Preto-SP**.  
 I enjoy **technology, AI, machine learning, Python, and game development**.
 
