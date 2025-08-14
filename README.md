@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="margin-bottom: 5px;">Hi, I'm Gabriel Ricci 👋</h1>
+<h1 style="margin-bottom: 50px;">Hi, I'm Gabriel Ricci 👋</h1>
 <img src="avatar_image.png" alt="avatar_image" width="200"/>
 
 </div>
