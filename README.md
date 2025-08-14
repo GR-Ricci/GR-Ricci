@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 style="margin-bottom: 0px;">Hi, I'm Gabriel Ricci 👋</h1>
-<img src="avatar_image.png" alt="avatar_image" width="300"/>
+<p style="font-size: 2em; font-weight: bold; margin-bottom: 0.2em;">Hi, I'm Gabriel Ricci 👋</p>
+<img src="avatar_image.png" alt="avatar_image" width="200"/>
 
 </div>
 
