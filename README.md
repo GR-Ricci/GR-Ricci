@@ -1,9 +1,8 @@
 <div align="center">
 
-<span style="font-size: 2em; font-weight: bold; vertical-align: middle;">
-Hi, I'm Gabriel Ricci 👋
-</span>
-<img src="avatar_image.png" alt="avatar_image" width="300" style="vertical-align: middle; margin-left: 8px;"/>
+# Hi, I'm Gabriel Ricci 👋
+
+<img src="avatar_image.png" alt="avatar_image" width="300"/>
 
 </div>
 
