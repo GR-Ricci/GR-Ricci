@@ -2,7 +2,7 @@
 
 # Hi, I'm Gabriel Ricci 👋
 
-<img src="avatar_image.png" alt="avatar_image" width="300" style="margin-top: -20px;"/>
+<img src="avatar_image.png" alt="avatar_image" width="300" style="margin-top: -200px;"/>
 
 </div>
 
